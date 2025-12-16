@@ -1,0 +1,14 @@
+[project]
+name = "clipbg"
+version = "1.0.0"
+description = "Inkscape extension to autocrop transparent image backgrounds via clipping."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "The Unlicense" }
+authors = [
+    {name = "Afam-Ifediogor, U. Divine", email = "38317208+definite-d@users.noreply.github.com"}
+]
+dependencies = [
+    "inkex>=1.4.1",
+    "pillow>=12.0.0",
+]
