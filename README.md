@@ -62,7 +62,7 @@ If using the `.dmg` install, Inkscape creates its own environment. You may need 
 I use [`uv`](https://docs.astral.sh/uv). You should too.
 
 ```bash
-git clone https://github.com/definite-d/inkscape-clipbg
+git clone https://github.com/definite-d/clipbg
 cd inkscape-clipbg
 uv sync
 ```
