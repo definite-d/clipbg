@@ -1,5 +1,7 @@
 # clipbg
 
+<img width="718" height="308" alt="illustration" src="https://github.com/user-attachments/assets/156e75f1-8c6d-4ebb-a5b7-319149ea5705" />
+
 **ClipBG** is an Inkscape extension to autocrop transparent image backgrounds via clipping.
 
 It analyzes the alpha channel of a selected bitmap, calculates the bounding box of the visible pixels, and applies a non-destructive SVG `clip-path` to the image.
