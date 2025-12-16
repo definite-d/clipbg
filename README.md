@@ -4,7 +4,7 @@
 
 It analyzes the alpha channel of a selected bitmap, calculates the bounding box of the visible pixels, and applies a non-destructive SVG `clip-path` to the image.
 
-Made for myself (I got tired of having to use GIMP or PS to clip images), free for all. Consider dropping a star if you find it useful.
+Made for myself (I got tired of having to use GIMP or PS to do this), free for all. Consider dropping a star if you find it useful.
 
 Cheers.
 
@@ -17,6 +17,8 @@ Copy `clipbg.inx` and `clipbg.py` to your Inkscape User Extensions directory. Or
 - **Linux:** `~/.config/inkscape/extensions/`
 - **Windows:** `%APPDATA%\inkscape\extensions\`
 - **macOS:** `~/Library/Application Support/org.inkscape.Inkscape/config/inkscape/extensions`
+
+If Inkscape was open before this, you'd need to restart it.
 
 ### 2. Install Dependencies
 
